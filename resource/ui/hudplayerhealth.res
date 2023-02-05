@@ -8,7 +8,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"-50"
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"f0"
@@ -35,10 +35,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName" 	"healthbar_background"
-		"xpos"			"c-150"
+		"xpos"			"c-200"
 		"ypos"			"r60"
 		"zpos"			"4"
-		"wide"			"300"
+		"wide"			"400"
 		"tall"			"10"
 		"visible"		"1"	
 		"enabled"		"1"
@@ -77,7 +77,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"cs-0.5-70"
+		"xpos"			"cs-0.95-70"
 		"ypos"			"r106"
 		"zpos"			"5"
 		"wide"			"140"
@@ -113,16 +113,12 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlayerStatusAnchor"
-		"xpos"			"-50"
-		"ypos"			"-6"
+		"xpos"			"c390"
+		"ypos"			"r50"
 		"wide"			"2"
 		"tall"			"32"
 		"visible"		"1"
 		"enabled"		"1"
-
-		"pin_to_sibling""PlayerStatusHealthValue"
-		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"PlayerStatusBleedImage"

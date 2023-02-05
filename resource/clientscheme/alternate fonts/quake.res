@@ -7,7 +7,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Build"
-				"tall"		"72"
+				"tall"		"128"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -19,7 +19,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Build"
-				"tall"		"72"
+				"tall"		"128"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -32,7 +32,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Build"
-				"tall"		"52"
+				"tall"		"40"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"

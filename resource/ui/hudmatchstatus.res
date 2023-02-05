@@ -324,7 +324,7 @@
 		"fieldName"		"TeamStatus"
 		"xpos"			"0"
 		"xpos_minmode"	"0"
-		"ypos"			"r60"
+		"ypos"			"r110"
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"75"
@@ -333,17 +333,17 @@
 //You can change the values above to move the whole bar at once
 
 
-		"max_size"	"2500"
+		"max_size"	"2501"
 
 		"6v6_gap"	"200"
 		"12v12_gap"	"200"
 
 		"team1_grow_dir" "east"
-		"team1_base_x"	"c-150"
+		"team1_base_x"	"c-200"
 		"team1_max_expand"	"9999"
 
 		"team2_grow_dir" "east"
-		"team2_base_x"	"c-150"
+		"team2_base_x"	"c-200"
 		"team2_max_expand"	"9999"
 
 		"playerpanels_kv"
@@ -417,7 +417,7 @@
 				"xpos"					"0"
 				"ypos"					"0"
 				"zpos"					"5"
-				"wide"					"300"
+				"wide"					"400"
 				"tall"					"7"				
 				"autoResize"			"0"
 				"pinCorner"				"0"
