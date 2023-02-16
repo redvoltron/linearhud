@@ -285,7 +285,17 @@ Scheme
 				"antialias" "1"
 			}
 		}
-
+		"ToonHUDIcons"
+		{
+			"1"
+			{
+				"name" "ToonHUD Icons"
+				"tall" "24"
+				"weight" "500"
+				"additive" "0"
+				"antialias" "1"
+			}
+		}
 		"Garm3nFontAccount"
 		{
 			"1"
@@ -427,6 +437,14 @@ Scheme
 		{
 			"font" "resource/fonts/alternate fonts/handelgothic.ttf"
 			"name" "HandelGothic BT"
+		}
+	}
+	CustomFontFiles
+	{
+		"7"	//Main Font
+		{
+			"font" "resource/fonts/alternate fonts/toonhud.ttf"
+			"name" "ToonHUD Icons"
 		}
 	}
 }

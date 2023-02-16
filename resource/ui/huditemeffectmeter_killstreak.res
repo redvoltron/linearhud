@@ -5,8 +5,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"94"	[$WIN32]
-		"ypos"			"r52"	[$WIN32]
+		"xpos"			"C-140"	[$WIN32]
+		"ypos"			"r147"	[$WIN32]
 		"xpos_minmode"	"68"	[$WIN32]
 		"ypos_minmode"	"r40"	[$WIN32]
 		"wide"			"100"
@@ -53,7 +53,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"TFFontSmall"
+		"font"					"Garm3nFontBig"
 	}
 
 	"ItemEffectMeter"
@@ -82,13 +82,13 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"45"
+		"xpos"					"52"
 		"xpos_minmode"			"43"
 		"ypos_minmode"			"18"
-		"ypos"					"17"
+		"ypos"					"13"
 		"zpos"					"2"
 		"wide"					"20"
-		"tall"					"12"	
+		"tall"					"30"	
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
@@ -97,8 +97,7 @@
 		"textAlignment"			"north-west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontSmall"
-		"font_minmode"			"HudFontSmall"
+		"font"					"Garm3nFontBig"
 	}
 // Icon code and ToonHUD font taken from KBNhud 
 	"StreakIcon"
@@ -116,13 +115,13 @@
 		"labelText"				"K"
 		"textAlignment"			"west"
 		"font"					"ToonHUDIcons"
-		"fgcolor_override"		"232 225 199 255"
+		"fgcolor_override"		"255 255 255 255"
 	}
 	"StreakIconShadow"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"StreakIconShadow"
-		"xpos"					"37"
+		"xpos"					"35"
 		"ypos"					"11"
 		"zpos"					"2"
 		"wide"					"16"
@@ -133,6 +132,6 @@
 		"labelText"				"K"
 		"textAlignment"			"west"
 		"font"					"ToonHUDIcons"
-		"fgcolor_override"		"Black"
+		"fgcolor_override"		"255 102 0 255"
 	}
 }

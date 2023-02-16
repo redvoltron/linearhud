@@ -7,5 +7,3 @@
 #base "../customizations/streamermode/hudlayout.res"
 
 #base "../scripts/hudlayoutbase.res"
-
-#base "./speedometer.res"

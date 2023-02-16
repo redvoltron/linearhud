@@ -2602,5 +2602,10 @@ Scheme
 			"font" "resource/fonts/boombox2.ttf"
 			"name" "boombox2"
 		}
+		"10"	//idk
+		{
+			"font" "resource/fonts/alternate fonts/toonhud.ttf"
+			"name" "ToonHUD Icons"
+		}
 	}
 }
