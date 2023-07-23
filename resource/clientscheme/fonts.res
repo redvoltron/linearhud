@@ -2582,7 +2582,7 @@ Scheme
 		}	
 		"6" 
 		{
-			"font" "resource/TF2Build.ttf"
+			"font" "resource/fonts/alternate fonts/quake.ttf"
 			"name" "TF2 Build"
 			"russian"
 			{
@@ -2602,7 +2602,7 @@ Scheme
 			"font" "resource/fonts/boombox2.ttf"
 			"name" "boombox2"
 		}
-		"10"	//idk
+		"11"	//idk
 		{
 			"font" "resource/fonts/alternate fonts/toonhud.ttf"
 			"name" "ToonHUD Icons"

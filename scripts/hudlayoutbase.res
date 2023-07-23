@@ -17,7 +17,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"0"	
-		"ypos"	"-50"
+		"ypos"	"-40"
 		"wide"	"f0"
 		"tall"	"f0"
 	}
@@ -423,20 +423,20 @@
 		"tall"	 "468"
 
 		"MaxDeathNotices" "12"
-		"IconScale"	  "0.35"
+		"IconScale"	  "0.1"
 		"LineHeight"	  "12"
 		"LineSpacing"	  "1"
 		"CornerRadius"	  "3"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"Garm3nFontTinier"
+		"TextFont"		"Garm3nFontSmallest"
 		
 		"TeamBlue"		"Garm3nHUDDarkBlue"
 		"TeamRed"		"Garm3nHUDRed"
 		"IconColor"		"HudWhite"
 		"LocalPlayerColor"	"Garm3nHUDDarkGrey"
 
-		"BaseBackgroundColor"	"TransparentBlack"		//Garm3nHUDDarkGrey
+		"BaseBackgroundColor"	"Garm3nHUDDarkGrey"		//Garm3nHUDDarkGrey
 		"LocalBackgroundColor"	"HudWhite"	
 	}
 

@@ -6,8 +6,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
-				"tall"		"52"
+				"name"		"Poppins Thin"
+				"tall"		"128"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -18,8 +18,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
-				"tall"		"52"
+				"name"		"Poppins Thin"
+				"tall"		"128"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -31,8 +31,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
-				"tall"		"30"
+				"name"		"Poppins Thin"
+				"tall"		"40"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -43,7 +43,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins Thin"
 				"tall"		"28"
 				"weight"	"500"
 				"additive"	"0"
@@ -55,7 +55,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins Thin"
 				"tall"		"26"
 				"weight"	"500"
 				"additive"	"0"
@@ -67,7 +67,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins Medium"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -79,7 +79,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins Medium"
 				"tall"		"20"
 				"weight"	"500"
 				"additive"	"0"
@@ -91,7 +91,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins Medium"
 				"tall"		"22"
 				"weight"	"500"
 				"additive"	"0"
@@ -104,7 +104,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -116,7 +116,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -128,7 +128,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -141,7 +141,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -153,7 +153,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -165,7 +165,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -178,7 +178,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"13"
 				"weight"	"500"
 				"additive"	"0"
@@ -191,7 +191,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -203,7 +203,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -216,7 +216,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -228,7 +228,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins Medium"
 				"tall"		"22"
 				"weight"	"500"
 				"additive"	"0"
@@ -241,7 +241,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins Medium"
 				"tall"		"22"
 				"weight"	"500"
 				"additive"	"0"
@@ -254,7 +254,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins Medium"
 				"tall"		"22"
 				"weight"	"500"
 				"additive"	"0"
@@ -266,7 +266,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -278,7 +278,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -290,7 +290,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins Medium"
 				"tall"		"20"
 				"weight"	"500"
 				"additive"	"0"
@@ -301,7 +301,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"15"
 				"weight"	"500"
 				"additive"	"0"
@@ -313,7 +313,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -325,7 +325,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -337,7 +337,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -349,7 +349,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins SemiBold"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -362,7 +362,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins Light"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -370,7 +370,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins Light"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -378,7 +378,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins Light"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -386,7 +386,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins Light"
 				"tall"		"17"
 				"weight"	"500"
 				"additive"	"0"
@@ -394,7 +394,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins Light"
 				"tall"		"21"
 				"weight"	"500"
 				"additive"	"0"
@@ -402,7 +402,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins Light"
 				"tall"		"9"
 				"weight"		"500"
 				"additive"	"0"
@@ -410,7 +410,7 @@ Scheme
 			}
 			"7"
 			{
-				"name"		"Q3Numbers"
+				"name"		"Poppins Light"
 				"tall"		"9"
 				"weight"		"500"
 				"additive"	"0"
@@ -423,10 +423,30 @@ Scheme
 	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
 	CustomFontFiles
 	{
-		"7"	//Main Font
+		"15"	//Main Font
 		{
-			"font" "resource/fonts/alternate fonts/quake3.ttf"
-			"name" "Q3Numbers"
+			"font" "resource/fonts/alternate fonts/poppinsthin.ttf"
+			"name" "Poppins Thin"
+		}
+		"16"	//Main Font
+		{
+			"font" "resource/fonts/alternate fonts/poppinslight.ttf"
+			"name" "Poppins Light"
+		}
+		"17"	//Main Font
+		{
+			"font" "resource/fonts/alternate fonts/poppinsregular.ttf"
+			"name" "Poppins Thin"
+		}
+		"18"	//Main Font
+		{
+			"font" "resource/fonts/alternate fonts/poppinsmedium.ttf"
+			"name" "Poppins Medium"
+		}
+		"19"	//Main Font
+		{
+			"font" "resource/fonts/alternate fonts/poppinssemibold.ttf"
+			"name" "Poppins SemiBold"
 		}
 	}
 }

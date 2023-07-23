@@ -6,7 +6,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"128"
 				"weight"	"500"
 				"additive"	"0"
@@ -18,7 +18,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"128"
 				"weight"	"500"
 				"additive"	"0"
@@ -31,7 +31,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"40"
 				"weight"	"500"
 				"additive"	"0"
@@ -43,7 +43,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"28"
 				"weight"	"500"
 				"additive"	"0"
@@ -55,7 +55,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"26"
 				"weight"	"500"
 				"additive"	"0"
@@ -67,7 +67,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -79,7 +79,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"20"
 				"weight"	"500"
 				"additive"	"0"
@@ -91,7 +91,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"22"
 				"weight"	"500"
 				"additive"	"0"
@@ -104,7 +104,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -116,7 +116,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -128,7 +128,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -141,7 +141,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -153,7 +153,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -165,7 +165,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -178,7 +178,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"13"
 				"weight"	"500"
 				"additive"	"0"
@@ -191,7 +191,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -203,7 +203,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -216,7 +216,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -228,7 +228,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"22"
 				"weight"	"500"
 				"additive"	"0"
@@ -241,7 +241,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"22"
 				"weight"	"500"
 				"additive"	"0"
@@ -254,7 +254,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"22"
 				"weight"	"500"
 				"additive"	"0"
@@ -266,7 +266,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -278,7 +278,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -300,7 +300,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"20"
 				"weight"	"500"
 				"additive"	"0"
@@ -311,7 +311,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"15"
 				"weight"	"500"
 				"additive"	"0"
@@ -323,7 +323,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -335,7 +335,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -347,7 +347,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -359,7 +359,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -372,7 +372,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -380,7 +380,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -388,7 +388,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -396,7 +396,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"17"
 				"weight"	"500"
 				"additive"	"0"
@@ -404,7 +404,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"21"
 				"weight"	"500"
 				"additive"	"0"
@@ -412,7 +412,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"9"
 				"weight"		"500"
 				"additive"	"0"
@@ -420,7 +420,7 @@ Scheme
 			}
 			"7"
 			{
-				"name"		"TF2 Build"
+				"name"		"Poppins Light"
 				"tall"		"9"
 				"weight"		"500"
 				"additive"	"0"
@@ -441,10 +441,15 @@ Scheme
 	}
 	CustomFontFiles
 	{
-		"7"	//Main Font
+		"11"	//Main Font
 		{
 			"font" "resource/fonts/alternate fonts/toonhud.ttf"
 			"name" "ToonHUD Icons"
+		}
+		"16"	//Main Font
+		{
+			"font" "resource/fonts/alternate fonts/poppinslight.ttf"
+			"name" "Poppins Light"
 		}
 	}
 }

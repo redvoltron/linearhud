@@ -104,8 +104,8 @@
 			"textAlignment"	"center" //west
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"Garm3nFontMedium"
-			"font_lodef"	"Garm3nFontMedium"
+			"font"			"Garm3nFontBig"
+			"font_lodef"	"Garm3nFontBig"
 			"fgcolor"		"Garm3nHUDWhite"
 		}
 
@@ -128,8 +128,8 @@
 			"textAlignment"	"center" //west
 			"dulltext"		"1"
 			"brighttext"	"0"
-			"font"			"Garm3nFontMedium"
-			"font_lodef"	"Garm3nFontMedium"
+			"font"			"Garm3nFontBig"
+			"font_lodef"	"Garm3nFontBig"
 			"fgcolor"		"Garm3nHUDDarkGrey"
 		}
 		StickyIcon
@@ -218,8 +218,8 @@
 			"textAlignment"	"center" //west
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"Garm3nFontMedium"
-			"font_lodef"	"Garm3nFontMedium"
+			"font"			"Garm3nFontBig"
+			"font_lodef"	"Garm3nFontBig"
 			"fgcolor"		"Garm3nHUDWhite"
 		}
 
@@ -242,8 +242,8 @@
 			"textAlignment"	"center" //west
 			"dulltext"		"1"
 			"brighttext"	"0"
-			"font"			"Garm3nFontMedium"
-			"font_lodef"	"Garm3nFontMedium"
+			"font"			"Garm3nFontBig"
+			"font_lodef"	"Garm3nFontBig"
 			"fgcolor"		"Garm3nHUDDarkGrey"
 		}
 		StickyIcon

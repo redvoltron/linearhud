@@ -378,7 +378,7 @@
 				"tall"			"8"
 				"autoResize"	"0"
 				"pinCorner"		"0"
-				"visible"		"0"
+				"visible"		"1"
 			}
 			"classimage"
 			{
@@ -427,7 +427,7 @@
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
-				"bgcolor_override"		"55 51 48 0"
+				"bgcolor_override"		"0 0 0 0"
 				"proportionaltoparent"	"1"
 			}
 			"healthbargradient"
